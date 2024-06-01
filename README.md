@@ -10,12 +10,10 @@
 </h4>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
+ <a href="#-objetivo">Objetivo</a> •
  <a href="https://roadmap.sh/python">Roadmap</a> 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenca">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#-onde-é-usada-">Áreas de Atuação</a> • 
+ <a href="#-autor">Autor</a>
 </p>
 
 ## 💻 Sobre o projeto
@@ -47,7 +45,7 @@ Python desempenha um papel significativo na análise e processamento de grandes 
 ### Desenvolvimento de APIs
 Python é frequentemente usado para desenvolver APIs (Application Programming Interfaces) graças à sua simplicidade e à robustez de frameworks como Flask, FastAPI e Django REST framework. Isso facilita a criação e consumo de serviços web e microservices.
 
-## Autor
+## ✏️ Autor
 Feito com dedicação por Yohann Gusso 👋🏽 [Entre em Contato](https://www.linkedin.com/in/yohanngusso/)
 
 
