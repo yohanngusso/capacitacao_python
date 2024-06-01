@@ -11,7 +11,7 @@
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="https://roadmap.sh/python" target="_blank">Roadmap</a> 
+ <a href="[roadmap]">Roadmap</a> 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenc-a">Licença</a> • 
@@ -46,3 +46,6 @@ Python desempenha um papel significativo na análise e processamento de grandes 
 
 ### Desenvolvimento de APIs
 Python é frequentemente usado para desenvolver APIs (Application Programming Interfaces) graças à sua simplicidade e à robustez de frameworks como Flask, FastAPI e Django REST framework. Isso facilita a criação e consumo de serviços web e microservices.
+
+
+[roadmap]: https://roadmap.sh/python
