@@ -1,5 +1,5 @@
 <h1 align="center">Capacitação TrendsIT - PYTHON </h1>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<img alt="Python" title="#Python" src="./assets/python-alt.png" />
 
 <h4 align="center"> 
 	🚧 Python - TrendsIT 🚀 em construção... 🚧
