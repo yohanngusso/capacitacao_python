@@ -16,7 +16,7 @@
  <a href="#Autor">Autor</a> 
 </p>
 
-## 💻 Sobre o projeto
+## 🚀 Sobre o projeto
 Repositório para adicionar conteúdos da capacitação TrendsIT e quaisquer outros que aborde sobre a linguagem de Programação Python.
 
 ## 📔 Objetivo
@@ -46,6 +46,8 @@ Python desempenha um papel significativo na análise e processamento de grandes 
 Python é frequentemente usado para desenvolver APIs (Application Programming Interfaces) graças à sua simplicidade e à robustez de frameworks como Flask, FastAPI e Django REST framework. Isso facilita a criação e consumo de serviços web e microservices.
 
 <hr>
+
+## 💻 Instalação
 
 ## Autor
 Feito com dedicação por Yohann Gusso 👋🏽 [Entre em Contato](https://www.linkedin.com/in/yohanngusso/)
