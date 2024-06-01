@@ -11,6 +11,7 @@
 
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
+ <a href="#-instalação">Instalação</a> •
  <a href="https://roadmap.sh/python">Roadmap</a> •
  <a href="#-onde-é-usada-">Áreas de Atuação</a> • 
  <a href="#Autor">Autor</a> 
@@ -21,6 +22,78 @@ Repositório para adicionar conteúdos da capacitação TrendsIT e quaisquer out
 
 ## 📔 Objetivo
 Aprender o funcionamento da linguagem, seus tipos de dados, estruturas, além da sintaxe e semântica. Abordando também áreas de T.I que essa linguagem é mais utilizada.
+
+## 🛠️ Instalação
+
+### Instalação no Windows
+
+1. **Baixar o Instalador**:
+   - Acesse o site oficial do Python: [python.org](https://www.python.org/).
+   - Vá para a seção "Downloads" e clique em "Download Python 3.x.x" (a versão mais recente).
+
+2. **Executar o Instalador**:
+   - Execute o arquivo baixado (`python-3.x.x.exe`).
+   - Na tela de instalação, marque a opção "Add Python to PATH" (Adicionar Python ao PATH) para garantir que você possa usar Python a partir do prompt de comando.
+   - Clique em "Install Now" (Instalar agora).
+
+3. **Verificar a Instalação**:
+   - Abra o Prompt de Comando (`cmd`) e digite:
+     ```bash
+     python --version
+     ```
+   - Você deve ver a versão do Python instalada.
+
+### Instalação no macOS
+
+1. **Usar Homebrew** (recomendado):
+   - Primeiro, instale o Homebrew, se ainda não tiver. Abra o Terminal e digite:
+     ```bash
+     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+     ```
+   - Depois, instale o Python usando Homebrew:
+     ```bash
+     brew install python
+     ```
+
+2. **Verificar a Instalação**:
+   - No Terminal, digite:
+     ```bash
+     python3 --version
+     ```
+   - Você deve ver a versão do Python instalada.
+
+### Instalação no Linux
+
+1. **Usar o Gerenciador de Pacotes**:
+   - No Ubuntu ou Debian, use o `apt`:
+     ```bash
+     sudo apt update
+     sudo apt install python3
+     ```
+   - No Fedora, use o `dnf`:
+     ```bash
+     sudo dnf install python3
+     ```
+
+2. **Verificar a Instalação**:
+   - No Terminal, digite:
+     ```bash
+     python3 --version
+     ```
+   - Você deve ver a versão do Python instalada.
+
+### Configuração do Ambiente de Desenvolvimento
+
+1. **Adicionar a variável de ambiente**:
+   - Abra a barra de pesquisa do Windows e digite: variáveis de ambiente
+   - Clique em Editar as variáveis de ambiente do Sistema
+   - Variáveis de Ambiente
+   - Em variáveis do sistema procure por *Path*
+   - Adicione o caminho onde o Python foi instalado
+     ```bash
+     C:\Users\[Nome-do-usuario]\AppData\Local\Programs\Python\Python3.x.x
+     ```
+
 
 ## 📋 Onde é usada ?
 
@@ -47,7 +120,7 @@ Python é frequentemente usado para desenvolver APIs (Application Programming In
 
 <hr>
 
-## 💻 Instalação
+
 
 ## Autor
 Feito com dedicação por Yohann Gusso 👋🏽 [Entre em Contato](https://www.linkedin.com/in/yohanngusso/)
