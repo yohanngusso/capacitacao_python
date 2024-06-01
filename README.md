@@ -7,9 +7,16 @@
 	<br>
   <img src="https://img.shields.io/static/v1?label=Linguagem&message=Python&color=3776AB&style=for-the-badge&logo=python"
 
-
-
 </h4>
+
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="https://roadmap.sh/python">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
+</p>
 
 ## 💻 Sobre o projeto
 Repositório para adicionar conteúdos da capacitação TrendsIT e quaisquer outros que aborde sobre a linguagem de Programação Python.
