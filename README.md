@@ -13,7 +13,7 @@
  <a href="#-objetivo">Objetivo</a> •
  <a href="https://roadmap.sh/python">Roadmap</a> •
  <a href="#-onde-é-usada-">Áreas de Atuação</a> • 
- <a href="#✏️-autor">Autor</a> 
+ <a href="#✏-autor">Autor</a> 
 </p>
 
 ## 💻 Sobre o projeto
@@ -47,7 +47,7 @@ Python é frequentemente usado para desenvolver APIs (Application Programming In
 
 <hr>
 
-## ✏️ Autor
+## ✏ Autor
 Feito com dedicação por Yohann Gusso 👋🏽 [Entre em Contato](https://www.linkedin.com/in/yohanngusso/)
 
 
