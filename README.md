@@ -13,7 +13,7 @@
  <a href="#-objetivo">Objetivo</a> •
  <a href="https://roadmap.sh/python">Roadmap</a> •
  <a href="#-onde-é-usada-">Áreas de Atuação</a> • 
- <a href="#-autor">Autor</a> 
+ <a href="#✏️-autor">Autor</a> 
 </p>
 
 ## 💻 Sobre o projeto
