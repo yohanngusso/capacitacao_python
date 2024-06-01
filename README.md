@@ -1,5 +1,5 @@
 <h1 align="center">Capacitação TrendsIT - PYTHON </h1>
-<img alt="Python" title="#Python" src="./assets/python-alt.png" />
+<img alt="Python" title="#Python" src="./assets/readme/python-alt.png" />
 
 <h4 align="center"> 
 	🚧 Python - TrendsIT 🚀 em construção... 🚧
