@@ -11,7 +11,7 @@
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="https://roadmap.sh/python" target="_blank" rel="noopener noreferrer">Roadmap</a> 
+ <a href="https://roadmap.sh/python" target="_blank">Roadmap</a> 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenc-a">Licença</a> • 
